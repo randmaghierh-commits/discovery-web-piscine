@@ -1,0 +1,5 @@
+commit afe5d5c25d4af724ababceb905d199b72a631413
+Author: Rand Maghierh <randmaghierh@gmail.com>
+Date:   Thu Oct 1 14:42:13 2026 +0300
+
+    Add comprehensive README with Git benefits explanation
