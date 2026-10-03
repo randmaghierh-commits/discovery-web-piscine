@@ -1,0 +1,40 @@
+.:
+total 20
+drwxr-xr-x 5 q4c-rand q4c-rand 4096 Oct  1 14:05 .
+drwxr-xr-x 3 q4c-rand q4c-rand 4096 Oct  3 16:49 ..
+drwxr-xr-x 2 q4c-rand q4c-rand 4096 Oct  1 14:05 archives
+drwxr-xr-x 3 q4c-rand q4c-rand 4096 Oct  1 14:05 projects
+drwxr-xr-x 2 q4c-rand q4c-rand 4096 Oct  1 14:05 tools
+
+./archives:
+total 8
+drwxr-xr-x 2 q4c-rand q4c-rand 4096 Oct  1 14:05 .
+drwxr-xr-x 5 q4c-rand q4c-rand 4096 Oct  1 14:05 ..
+
+./projects:
+total 12
+drwxr-xr-x 3 q4c-rand q4c-rand 4096 Oct  1 14:05 .
+drwxr-xr-x 5 q4c-rand q4c-rand 4096 Oct  1 14:05 ..
+drwxr-xr-x 4 q4c-rand q4c-rand 4096 Oct  1 14:05 web
+
+./projects/web:
+total 16
+drwxr-xr-x 4 q4c-rand q4c-rand 4096 Oct  1 14:05 .
+drwxr-xr-x 3 q4c-rand q4c-rand 4096 Oct  1 14:05 ..
+drwxr-xr-x 2 q4c-rand q4c-rand 4096 Oct  1 14:05 backend
+drwxr-xr-x 2 q4c-rand q4c-rand 4096 Oct  1 14:05 frontend
+
+./projects/web/backend:
+total 8
+drwxr-xr-x 2 q4c-rand q4c-rand 4096 Oct  1 14:05 .
+drwxr-xr-x 4 q4c-rand q4c-rand 4096 Oct  1 14:05 ..
+
+./projects/web/frontend:
+total 8
+drwxr-xr-x 2 q4c-rand q4c-rand 4096 Oct  1 14:05 .
+drwxr-xr-x 4 q4c-rand q4c-rand 4096 Oct  1 14:05 ..
+
+./tools:
+total 8
+drwxr-xr-x 2 q4c-rand q4c-rand 4096 Oct  1 14:05 .
+drwxr-xr-x 5 q4c-rand q4c-rand 4096 Oct  1 14:05 ..
