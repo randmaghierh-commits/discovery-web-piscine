@@ -1,3 +1,21 @@
+commit 27583c04ba8a7a5296fcaeff5b667de6b2cbcfe3
+Author: randmaghierh-commit <randmaghierh@gmail.com>
+Date:   Sat Oct 3 17:36:00 2026 +0300
+
+    Add git_workflow.txt
+
+commit e7033d8c246066d87d2ceef7b241c82c3a435d47
+Author: randmaghierh-commit <randmaghierh@gmail.com>
+Date:   Sat Oct 3 17:23:56 2026 +0300
+
+    Add ex00, ex01 and ex02 files
+
+commit b4046506e6a6014c3d719617425f25c416314da7
+Author: randmaghierh-commit <randmaghierh@gmail.com>
+Date:   Sat Oct 3 17:20:38 2026 +0300
+
+    Update git_log.txt
+
 commit 4cd58cf69471072052bf13c6a0d8c180b9add95c
 Author: randmaghierh-commit <randmaghierh@gmail.com>
 Date:   Sat Oct 3 17:16:41 2026 +0300
