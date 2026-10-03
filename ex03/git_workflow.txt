@@ -1,0 +1,16 @@
+Git Workflow: edit, add, commit, push
+
+Step 1: Edit
+I edited the file ex03/README.md with nano.
+
+Step 2: Check what changed
+$ git status
+
+Step 3: Stage the file
+$ git add ex03/README.md
+
+Step 4: Commit
+$ git commit -m "Rewrite README in my own words"
+
+Step 5: Push
+$ git push origin main
